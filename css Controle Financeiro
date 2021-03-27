@@ -1,0 +1,52 @@
+.menuhamb  {
+    
+    height: 27px;
+    width: 27px;
+}
+
+body {
+    display: flex;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color:gray;
+    font-family:'Lato' ;
+    width: 80%;
+    margin: auto;
+}
+
+
+.bodyy {
+    
+    justify-content: center;
+}
+
+.inputdousuario {
+    display: flex;
+flex-direction: column;
+border: 10px gray;
+padding-right: 66em;
+-webkit-animation-fill-mode: backwards;
+border-radius:10%;
+
+
+}
+
+.extrato 
+ {
+     display: flex;
+     position: relative;
+     padding-left: 25px;
+     padding-bottom: 5px;
+     margin-top: 15px;
+
+
+}
+
+:root {
+    --background-menu: #e0e0e0;
+    --gray: #808080;
+    --gray-dark: #333333;
+}
